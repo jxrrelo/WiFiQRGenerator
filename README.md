@@ -18,6 +18,6 @@ import sys
 SSID: <Network SSID>
 Password: <Password>
 <WPA/WPA2>
-```
 
-Resulting QR Code is saved to local directory: <SSID>.png
+#Resulting QR Code is saved to local directory as <SSID>.png
+```
