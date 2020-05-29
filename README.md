@@ -8,16 +8,9 @@ pip install pyqrcode
 
 ## Usage:
 ```bash
-python3 wifi_qr.py
+python3 wifi_qr.py <Network SSID> <Password> <WPA/WPA2>
 ```
 
 ```python
-import pyqrcode
-import sys
-
-SSID: <Network SSID>
-Password: <Password>
-<WPA/WPA2>
-
 #Resulting QR Code is saved to local directory as <SSID>.png
 ```
