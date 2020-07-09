@@ -1,5 +1,5 @@
 # WiFiQRGenerator
-Apart from being able to join a WiFi network selected from a list and by entering its password manually, this programs allows a user to generate a QR Code of any WiFi network as long as its credentials are present. Easily shareable with friends and family or customers over a business.
+Generate a QR Code of any WiFi network using valid credentials. Easily shareable, easily accessible.
 
 ## Installation:
 ```bash
